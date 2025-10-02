@@ -5,3 +5,8 @@
 - [r/Futurism](https://www.reddit.com/r/Futurism/)
 - [r/singularity](https://www.reddit.com/r/singularity/)
 
+## AI Agents
+- [1K+ agentic project schemas reconstructed from users posts on frameworks-related subreddits](https://altsoph.com/pp/aps/#)
+
+## LLM
+- [openrouter.ai/](https://openrouter.ai/)
