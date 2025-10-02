@@ -13,3 +13,6 @@
 
 ## Knowledge Management Tools
 - [Open Notebook](https://www.open-notebook.ai/)
+
+## Public AI
+- [Public AI](https://publicai.co/)
