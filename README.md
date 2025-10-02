@@ -10,3 +10,6 @@
 
 ## LLM
 - [openrouter.ai/](https://openrouter.ai/)
+
+## Knowledge Management Tools
+- [Open Notebook](https://www.open-notebook.ai/)
